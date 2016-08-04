@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+beer_reviews.RData
+beer_reviews.csv
+vw_model.vw
+vw_dat.txt
+vw_dat.txt.cache
+.cache.writing
